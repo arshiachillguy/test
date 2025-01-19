@@ -1,2 +1,2 @@
-*.txt
-/new folder/ok[0-3].txt
+/new folder/ok*.txt
+*.png
