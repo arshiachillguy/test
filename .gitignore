@@ -1,2 +1,2 @@
 *.txt
-/new folder/*.txt
+/new folder/ok[0-3].txt
